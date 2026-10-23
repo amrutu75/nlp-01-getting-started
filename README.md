@@ -14,9 +14,9 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Agnes Mrutu
 
-Date: 2026 October
+Date: 2026 October 22
 
 First project in the Web Mining and Applied NLP course.
 
