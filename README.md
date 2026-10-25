@@ -226,3 +226,10 @@ testing, documentation, and code quality.
 - [Professional Python Workflow Guide](https://denisecase.github.io/pro-analytics-02/)
 - [Citation](CITATION.cff)
 - [License](LICENSE)
+
+## Used my github for for technical modification for P1 excercise
+url: str = "https://github.com/amrutu75/nlp-01-getting-started"
+
+### Example Visualization
+![Bar Chart]((docs/images/Figure_1.png)
+![Word Cloud Example](docs/images/NLP_2.png)
