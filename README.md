@@ -231,5 +231,5 @@ testing, documentation, and code quality.
 url: str = "https://github.com/amrutu75/nlp-01-getting-started"
 
 ### Example Visualization
-![Bar Chart]((docs/images/Figure_1.png)
+![Word Cloud Example](docs/images/Figure_1.png)
 ![Word Cloud Example](docs/images/NLP_2.png)
